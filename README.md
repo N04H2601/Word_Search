@@ -1,2 +1,2 @@
 # Word_Search
-This repository contains a wordsearch project I made in C# using WPF to make a GUI.
+This repository contains a wordsearch project I did in C# using WPF to make a GUI, during my second year of engineering school.
